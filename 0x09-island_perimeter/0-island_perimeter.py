@@ -11,7 +11,7 @@ def island_perimeter(grid):
                  1 represents land.
                  Each cell is square, with a side length of 1.
                  Cells are connected horizontally/vertically (not diagonally).
-                 grid is rectangular, with its width and height not exceeding 100
+                 grid is rectangular, with its width & height <= 100.
     """
     perimeter = 0
     if type(grid) != list:
