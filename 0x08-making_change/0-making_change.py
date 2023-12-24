@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """Implement an algorithm to determine lowest threshold of coins needed
    to meet a given amount
 """
