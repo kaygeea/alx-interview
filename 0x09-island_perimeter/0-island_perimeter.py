@@ -1,10 +1,10 @@
 #!/usr/bin/python3
 """
-Create a function that computes the perimeter of a given island
+Create a function that computes the perimeter of a given island.
 """
 
 
-def island_perimeter(grid: list[list[int]]) -> int:
+def island_perimeter(grid) -> int:
     """
     Calculate the perimeter of the island in a 2D grid.
 
