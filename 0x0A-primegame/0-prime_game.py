@@ -3,7 +3,7 @@
 Create a function to determine winner of a prime game
 """
 
-def isWinner(x: int, nums: list[str]) -> str:
+def isWinner(x, nums):
     """
     Determines the winner of a game played by Maria and Ben based on strategic
     removal of prime numbers and their multiples across multiple rounds.
