@@ -3,6 +3,7 @@
 Create a function to determine winner of a prime game
 """
 
+
 def isWinner(x, nums):
     """
     Determines the winner of a game played by Maria and Ben based on strategic
